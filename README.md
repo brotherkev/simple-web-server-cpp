@@ -7,7 +7,7 @@ I don't understand the web. I don't understand servers. I've never made anything
 
 ### preface
 
-Below is all the things I've learned throughout this project. I wrote these by hand and then transcribed them here. I will give a general overview of the way I take notes and, in general, learn things. Understand, I am not a bright man. At the age of 24, working as an IT specialist, and having a bachelor's in computer science, I hardly understood fractions a year ago (specifically performing arithemetic with them. I am teaching myself algebra at the moment.) I never knew how to learn things. I have found a new way to learn things. 
+Below is all the things I've learned throughout this project. I wrote these by hand and then transcribed them here. I will give a general overview of the way I take notes and, in general, learn things. Understand, I am not a bright man. At the age of 24, working as an IT specialist, and having a bachelor's in computer science, I hardly understood fractions a year ago (specifically performing arithemetic with them. I am teaching myself algebra at the moment.) I never knew how to learn things in a way that made me want to take it beyond "just enough". I have found a new way to learn things. 
 
 I pick a project and have to research every aspect of a subject to understand it. If I see a term I don't recognize, I research it, and if that brings on even more terms, I research those. I figure out why it exists and why it is picked over alternatives. I go in depth with it to the point of redundancy. Because of this, I gain a firm understanding of the tools I'm using and the domain I'm in. 
 
